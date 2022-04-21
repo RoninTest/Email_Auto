@@ -1,0 +1,7 @@
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Projects\Email_Auto\bin\Debug\Email_Auto.exe.config
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Projects\Email_Auto\bin\Debug\Email_Auto.exe
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Projects\Email_Auto\bin\Debug\Email_Auto.pdb
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Projects\Email_Auto\obj\Debug\Email_Auto.csproj.AssemblyReference.cache
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Projects\Email_Auto\obj\Debug\Email_Auto.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Projects\Email_Auto\obj\Debug\Email_Auto.exe
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Projects\Email_Auto\obj\Debug\Email_Auto.pdb
